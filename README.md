@@ -10,3 +10,6 @@
 
 
 Thought leaders are often seen as having a competitive edge over others since they are more known than their colleagues and understand how to effect change. As thought leaders, we will engage those around us, who will then engage others in their circle, spreading our ideas far and wide. The reward of being a thought leader is that Thought leaders may develop influence in their sector or society over time, have a greater effect on themes and causes that are important to them, and typically leave a legacy that is important to them.
+
+
+While it's easy to get caught up in the next problem that arises, thought leaders must look beyond tomorrow and consider what would encourage people to act on their own.z
