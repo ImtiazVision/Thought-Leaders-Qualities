@@ -15,3 +15,5 @@ Thought leaders are often seen as having a competitive edge over others since th
 While it's easy to get caught up in the next problem that arises, thought leaders must look beyond tomorrow and consider what would encourage people to act on their own.
 
 Thought leaders use the **premortem** process, which is when we think through what may happen in order to ensure that we're taking the necessary steps to prevent it from happening.
+
+When we wish to condense our knowledge, we begin by identifying what does not work and then determining how to do something better. Because when we concentrate on what doesn't work, we may talk from experience rather than using buzzwords or cliches. Thought leadership entails pointing the path forward. The majority of how we discovered which road to pursue is based on what we did incorrectly or what went wrong along the way. As a result, focusing on those experiences allows us to be much more "genuine" in our guidance and counsel to others.
