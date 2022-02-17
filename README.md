@@ -14,4 +14,4 @@ Thought leaders are often seen as having a competitive edge over others since th
 
 While it's easy to get caught up in the next problem that arises, thought leaders must look beyond tomorrow and consider what would encourage people to act on their own.
 
-Thought leaders use the premortem process, which is when we think through what may happen in order to ensure that we're taking the necessary steps to prevent it from happening.
+Thought leaders use the **premortem** process, which is when we think through what may happen in order to ensure that we're taking the necessary steps to prevent it from happening.
