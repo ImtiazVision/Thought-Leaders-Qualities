@@ -5,3 +5,7 @@
 ### Lifelong Learning
 
 **Lifelong Learning** broadens our knowledge, allows us in making connections between various sorts of thoughts and concepts, and improves our creativity and problem-solving abilities. A emphasis on continuous learning also helps to foster a mindset in which problems and hurdles are seen as opportunities to improve our skills, talents, and knowledge.
+
+### Building Rapport
+
+The goal of rapport is to create a bond. It is about communicating not just words, but also sentiments and emotions. It fosters stronger ties and deeper partnerships, which nearly always leads to increased productivity and retention.
