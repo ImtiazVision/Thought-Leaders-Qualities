@@ -1,6 +1,6 @@
 ### Growth Mindset 
 
-
+**Growth Mindset**: The concept that skills and talents may change and improve through time is referred to as a growth mindset. People with a growth mindset see a difficult circumstance as a learning experience, an opportunity for practice, and a chance to acquire abilities that will enhance their chances of success the next time.
 
 ### Lifelong Learning
 
