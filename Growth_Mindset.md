@@ -9,3 +9,7 @@
 ### Building Rapport
 
 The goal of rapport is to create a bond. It is about communicating not just words, but also sentiments and emotions. It fosters stronger ties and deeper partnerships, which nearly always leads to increased productivity and retention.
+
+### Servant Leadership
+
+**Servant leadership**: is all about putting others ahead of yourself. It also entails being ethical, knowing how to listen, and being helpful in general. However, the overarching idea is about serving others and assisting others before oneself.  I t promotes excellent teamwork and fosters good team cohesion.
