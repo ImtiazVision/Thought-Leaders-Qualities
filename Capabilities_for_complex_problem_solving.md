@@ -11,8 +11,9 @@ The followings are problem solving steps:
   - Determine the Action Plan
   - Implement the solution and track progress
 
+### Analytical Skills
 
-
+**Analytical Skills**: Analytical abilities, also known as analytical thinking, are the capacity to gather, visualize, and evaluate information in order to comprehend the wider picture or pattern underlying data and assist in finding answers to common issues and making choices about what to do next.
 
 
 
