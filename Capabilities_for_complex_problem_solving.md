@@ -11,6 +11,16 @@ The followings are problem solving steps:
   - Determine the Action Plan
   - Implement the solution and track progress
 
+Some essential problem-solving skills include:
+  - **Research**:
+  - **Analysis**:
+  - **Active listening**:
+  - **Decision-making**:
+  - **Communication**:
+  - **Dependability**:
+  - **Creativity**:
+  - **Team-building**:
+
 ### Analytical Skills
 
 **Analytical Skills**: Analytical abilities, also known as analytical thinking, are the capacity to gather, visualize, and evaluate information in order to comprehend the wider picture or pattern underlying data and assist in finding answers to common issues and making choices about what to do next.
