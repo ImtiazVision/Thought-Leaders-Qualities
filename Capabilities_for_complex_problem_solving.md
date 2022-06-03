@@ -14,7 +14,7 @@ The followings are problem solving steps:
 Some essential problem-solving skills include:
   - **Research**:
   - **Analysis**:
-  - **Active listening**:
+  - **Active listening**: Active listening is the capacity to thoroughly concentrate on a speaker, grasp their message, and reply wisely. This highly regarded interpersonal communication skill guarantees that we can engage and afterwards retain precise details without having to repeat material. Active listeners utilize both verbal and nonverbal cues to demonstrate and maintain their focus on the speaker. This not only help us concentrate, but it also ensures that the speaker can see that we are attentive and interested.
   - **Decision-making**:
   - **Communication**:
   - **Dependability**:
