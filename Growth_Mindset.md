@@ -4,7 +4,7 @@
 
 ### Lifelong Learning
 
-**Lifelong Learning** broadens our knowledge, allows us in making connections between various sorts of thoughts and concepts, and improves our creativity and problem-solving abilities. A emphasis on continuous learning also helps to foster a mindset in which problems and hurdles are seen as opportunities to improve our skills, talents, and knowledge.
+**Lifelong Learning** broadens our knowledge, allows us in making connections between various sorts of thoughts and concepts, and improves our creativity and problem-solving abilities. A emphasis on continuous learning also helps to foster a mindset in which problems and hurdles are seen as opportunities to improve our skills, talents, and knowledge. To establish a culture of lifelong learning, we must continue to acquire new knowledge on a daily basis and read books and articles on the most recent research from organizations such as Deloitte, Bersin, LinkedIn Learning, the Association for Talent Development, and Gartner.
 
 ### Building Rapport
 
