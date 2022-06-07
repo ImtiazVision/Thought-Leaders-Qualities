@@ -9,3 +9,7 @@
 ### Revenue 
 
 **Revenue**: The quantity of money received from clients is referred to as revenue.
+
+### Cost
+
+**Costs**: are commercial expenses such as salary, materials, insurance, and real estate.
