@@ -17,3 +17,5 @@
 ### Business Teams
 
 **Finance**: team is in charge of obtaining funds through loans or from investors. So, in order to complete any project, we will want the assistance of the finance team.
+
+**Accounting**: team is in charge of keeping track of money. Accounting assists the organization and its shareholders in understanding their current financial status.
