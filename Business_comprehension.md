@@ -25,3 +25,5 @@
 **Supply Chain**: The supply chain team is in charge of purchasing, manufacturing, and shipping items so that consumers receive the correct thing at the right place at the right time. Supply chains require information for marketing and sales to know what to acquire, create, and transport.
 
 **Sales**: The sales staff cultivates client connections before attempting to sell them goods and services at a competitive price. This contributes to revenue generation.
+
+**IT**: IT, the information technology team, collects, stores, and shares all of the business-related data and information listed above.
