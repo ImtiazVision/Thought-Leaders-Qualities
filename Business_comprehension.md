@@ -27,3 +27,5 @@
 **Sales**: The sales staff cultivates client connections before attempting to sell them goods and services at a competitive price. This contributes to revenue generation.
 
 **IT**: IT, the information technology team, collects, stores, and shares all of the business-related data and information listed above.
+
+**HR**: Every department requires knowledgeable, motivated employees. The human resources team is responsible for hiring and keeping good personnel.
