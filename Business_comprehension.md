@@ -13,3 +13,7 @@
 ### Cost
 
 **Costs**: are commercial expenses such as salary, materials, insurance, and real estate.
+
+### Business Teams
+
+**Finance**: team is in charge of obtaining funds through loans or from investors. So, in order to complete any project, we will want the assistance of the finance team.
