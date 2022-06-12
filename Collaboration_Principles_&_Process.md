@@ -4,4 +4,4 @@ Collaboration: is defined as individuals working together to accomplish a common
 
 ### First impression 
 
-First impressions are seen as a shortcut to success. A first impression functions as a fulcrum and a lever. We can make a significant impact with a modest amount of dedicated effort. Mastering the first 20 seconds of any engagement impacts the next 20 minutes.
+First impressions are seen as a shortcut to success. A first impression functions as a fulcrum and a lever. We can make a significant impact with a modest amount of dedicated effort. Mastering the first 20 seconds of any engagement impacts the next 20 minutes. Most people establish an impression of us in less than 20 seconds. We usually create our first impression of someone inside the first 20 seconds. This allows us to make eye contact and shake hands quickly.
