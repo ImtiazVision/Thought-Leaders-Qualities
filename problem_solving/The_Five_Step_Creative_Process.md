@@ -1,6 +1,6 @@
 ### The Five Step Creative Process
 
-The five steps of the creative process are as follows:
+BBDO co-founder Alex Osborn and Creative Education Foundation president Sidney Parnes were the first to outline the whole creative process. These five steps of the creative process are as follows:
 
 1. **Objective finding**:
 2. **Data gathering**:
