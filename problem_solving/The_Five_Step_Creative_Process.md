@@ -6,4 +6,4 @@ BBDO co-founder Alex Osborn and Creative Education Foundation president Sidney P
 2. **Data gathering**: The hunt for insight begins with data collecting and concludes with the decision of whether data is crucial, intriguing, and insightful.
 3. **Problem design**: Determine whether the initial problem is still the proper one to tackle after setting objectives and obtaining data.
 4. **Ideation**: Don't solve the problem during ideation; instead, develop as many options as we can and leave judging those ideas to the following step.
-5. **Selection**:
+5. **Selection**: Be very clear about what a solution to our problem includes, and be ruthless in deciding whether proposals meet those requirements.
