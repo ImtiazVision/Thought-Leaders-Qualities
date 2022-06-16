@@ -30,4 +30,4 @@ The underlying probability that is unaffected by prior occurrences is referred t
 
 ## Sunk Cost Bias 
 
-** A sunk cost**: is a resource, like as money, time, or people, that has already been squandered in an endeavour that cannot be recovered. It's gone, and there's no way to recover it. The sunk cost fallacy occurs when people make decisions about a current situation based on what they've already invested in it, such as continuing to pour resources into a failed project in the hopes of saving it or because we believe the wasted cost would otherwise be squandered. The truth is that we do this all the time without even realizing it.
+**A sunk cost**: is a resource, like as money, time, or people, that has already been squandered in an endeavour that cannot be recovered. It's gone, and there's no way to recover it. The sunk cost fallacy occurs when people make decisions about a current situation based on what they've already invested in it, such as continuing to pour resources into a failed project in the hopes of saving it or because we believe the wasted cost would otherwise be squandered. The truth is that we do this all the time without even realizing it.
