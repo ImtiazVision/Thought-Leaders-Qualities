@@ -1,6 +1,6 @@
 ### Getting Things Done 
 
-1. **Capture**
+1. **Capture**: The first step is to collect and identify everything that is not on cruise control, may be out of place, or is not precisely where it should be.
 2. **Clarify**
 3. **Organize**
 4. **Reflect**
