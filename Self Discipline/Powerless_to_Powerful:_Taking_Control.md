@@ -1,0 +1,1 @@
+What tastes nice isn't necessarily excellent, and what is good isn't always tasty. That's why we need nutrition science; if we ate based on how things taste to us, we wouldn't live long. Similarly, many things that feel nice are not actually beneficial for us, and many things that are excellent and effective do not feel so wonderful.
