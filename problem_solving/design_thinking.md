@@ -6,7 +6,7 @@
 
 The five stages are:
 
-- Empathizing with the user (human empathy)
+- **Empathizing with the user (human empathy)** : Human Empathy is the first and most important step of Design Thinking. The problem is perceived through the eyes of the users at this stage, and a solution is generated based on an empathic understanding of the users' needs. While developing a solution, this technique helps the designer and team to set aside their opinions and assumptions.
 - Defining the problem
 - Thinking about the solution (ideation)
 - Building prototypes
