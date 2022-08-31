@@ -4,7 +4,7 @@ What tastes nice isn't necessarily excellent, and what is good isn't always tast
 
 Innocence is dependent on external influences beyond our control. Therefore, the cost of innocence is impotence.
 
-### Victim Perspective 
+### Victim Perspective :
 
 The victim's perspective refers to the attitude of focusing on external issues, of shifting our attention to problems beyond our control in order to prove our innocence. 
 
