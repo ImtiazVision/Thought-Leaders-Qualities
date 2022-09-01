@@ -1,4 +1,4 @@
-### Five Advantages of Collaboration
+### Five Advantages of Collaboration :
 
 1. The first advantage is diversity. Putting together distinct and varied viewpoints, especially on a complicated subject, has been proved in research to result in more successful solutions. Because our group members will all be aware of the same possible solutions and impediments to success if they all come from the same background. It's superfluous. Bringing in other viewpoints enables for more creative brainstorming and "thinking outside the box." For example, a salesperson may inform the product team on what customers want and what they don't. This may enable the product team to remove a feature that was consuming a lot of time and effort in the first place.
 
