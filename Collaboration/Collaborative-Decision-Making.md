@@ -4,7 +4,7 @@
 
 2. The second advantage is **speed**. We'll discover that if the team is connected and responsible to the ultimate purpose, protocols for working together, and behavioral standards, the team will move quicker. This, however, requires a great deal of self-control.
 
-3. Engagement is the third benefit. According to research, effective teamwork leads to better employee engagement. Employees that are engaged care more about their job and put more effort into it.
+3. **Engagement** is the third benefit. According to research, effective teamwork leads to better employee engagement. Employees that are engaged care more about their job and put more effort into it.
 
 4. This brings us to the fourth benefit, increased productivity. We are more likely to be productive if we have strong trust, clarity on our goals, methods, and standards, and everyone feels involved. 
 
