@@ -6,6 +6,6 @@
 
 3. **Engagement** is the third benefit. According to research, effective teamwork leads to better employee engagement. Employees that are engaged care more about their job and put more effort into it.
 
-4. This brings us to the fourth benefit, increased productivity. We are more likely to be productive if we have strong trust, clarity on our goals, methods, and standards, and everyone feels involved. 
+4. This brings us to the fourth benefit, increased **productivity**. We are more likely to be productive if we have strong trust, clarity on our goals, methods, and standards, and everyone feels involved. 
 
 5. Finally, benefit number five: increased empathy. To achieve increased productivity and higher production while relying on diversity of thinking, we must first really comprehend one other's points of view. Collaboration helps individuals develop empathy for their colleagues, which has a cascading effect since those team members would interact with non-team members with greater empathy after developing the muscle with their collaborative team.
