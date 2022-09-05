@@ -23,7 +23,7 @@ Some essential problem-solving skills include:
   - **Creativity**: The capacity to think about a task or an issue in a new or unusual manner, or the ability to utilize one's imagination to develop new ideas, is referred to as creativity. Creativity allows us to overcome hard challenges or come up with novel approaches to tasks. When we are creative, we see things from a different angle. We may look for trends and develop connections to identify opportunities.
   - **Team-building**: Team-building skills help us to assist individual employees in investing and working in a coherent team that shares a common goal and accomplishments. Every member of a productive team believes that their contribution is appreciated and that they have influence when setting objectives and devising strategies to achieve them. A team may cooperate to accomplish its goals after agreeing on the group's objectives and the measures it should take to attain them.
 
-### Analytical Skills
+### Analytical Skills :
 
 **Analytical Skills**: Analytical abilities, also known as analytical thinking, are the capacity to gather, visualize, and evaluate information in order to comprehend the wider picture or pattern underlying data and assist in finding answers to common issues and making choices about what to do next.
 
