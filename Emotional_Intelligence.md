@@ -1,4 +1,4 @@
-### Emotional Intelligence
+### Emotional Intelligence :
 
 **Emotional Intelligence**: Daniel Goleman, a specialist in emotional intelligence, identifies five pillars of emotional intelligence:
 
