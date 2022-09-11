@@ -1,4 +1,4 @@
-# Thought-Leaders
+# Thought-Leaders Qualities:
 
 ### Why do we need thought leaders?
 
